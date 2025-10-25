@@ -1,4 +1,7 @@
 ### Flipkart_Customer_Classification_ML_capstone_project
+![Uploading image.png…]()
+
+
 * **Project Title:** Flipkart Customer Service Satisfaction Analysis
 * **Goal:** Predict customer satisfaction (CSAT) and identify improvement areas.
 * **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn, SMOTE,etc.
