@@ -1,6 +1,6 @@
 ### Flipkart_Customer_Classification_ML_capstone_project
 
-<img width="221" height="178" alt="image" src="https://github.com/user-attachments/assets/a7b1b255-bb4d-4466-b075-fac6e3cc4bc3" />
+<img width="251" height="178" alt="image" src="https://github.com/user-attachments/assets/a7b1b255-bb4d-4466-b075-fac6e3cc4bc3" />
 
 
 
