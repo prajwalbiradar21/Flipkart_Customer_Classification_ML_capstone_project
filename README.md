@@ -8,7 +8,23 @@
 * **Goal:** Predict customer satisfaction (CSAT) and identify improvement areas.
 * **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn, SMOTE,etc.
 * **Key Steps:** EDA, Data Preprocessing, Feature Engineering, Modeling, Evaluation,etc 
-* **Results Summary:**  XGBoost achieved the highest accuracy of around 90%, outperforming Logistic Regression and Random Forest models.
+* **Results Summary:**  The classification models were evaluated based on Accuracy, Precision, Recall, and F1-Score.
+After multiple experiments, XGBoost emerged as the best-performing model.
+
+* Best Model: XGBoost Classifier
+
+* Accuracy: ~90%
+
+* Precision: 0.89
+
+* Recall: 0.87
+
+* F1-Score: 0.88
+
+XGBoost outperformed Logistic Regression and Random Forest due to its ability to handle class imbalance and capture non-linear feature relationships.
+This model effectively distinguishes between satisfied and dissatisfied customers, enabling Flipkart to focus on customers who are more likely to churn.
+
+XGBoost achieved the highest accuracy of around 90%, outperforming Logistic Regression and Random Forest models.
 The model effectively classified customers as Satisfied or Not Satisfied, even with class imbalance handled using SMOTE.
 Key insights revealed that faster response times, quick resolutions, and experienced agents were major contributors to higher customer satisfaction.
 
