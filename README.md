@@ -11,15 +11,15 @@
 * **Results Summary:**  The classification models were evaluated based on Accuracy, Precision, Recall, and F1-Score.
 After multiple experiments, XGBoost emerged as the best-performing model.
 
-* Best Model: XGBoost Classifier
+--> Best Model: XGBoost Classifier
 
-* Accuracy: ~90%
+--> Accuracy: ~90%
 
-* Precision: 0.89
+--> Precision: 0.89
 
-* Recall: 0.87
+--> Recall: 0.87
 
-* F1-Score: 0.88
+--> F1-Score: 0.88
 
 XGBoost outperformed Logistic Regression and Random Forest due to its ability to handle class imbalance and capture non-linear feature relationships.
 This model effectively distinguishes between satisfied and dissatisfied customers, enabling Flipkart to focus on customers who are more likely to churn.
