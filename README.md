@@ -1,12 +1,16 @@
 ### Flipkart_Customer_Classification_ML_capstone_project
-![Uploading image.png…]()
+
+<img width="221" height="178" alt="image" src="https://github.com/user-attachments/assets/a7b1b255-bb4d-4466-b075-fac6e3cc4bc3" />
+
 
 
 * **Project Title:** Flipkart Customer Service Satisfaction Analysis
 * **Goal:** Predict customer satisfaction (CSAT) and identify improvement areas.
 * **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn, SMOTE,etc.
 * **Key Steps:** EDA, Data Preprocessing, Feature Engineering, Modeling, Evaluation,etc 
-* **Results Summary:**
+* **Results Summary:**  XGBoost achieved the highest accuracy of around 90%, outperforming Logistic Regression and Random Forest models.
+The model effectively classified customers as Satisfied or Not Satisfied, even with class imbalance handled using SMOTE.
+Key insights revealed that faster response times, quick resolutions, and experienced agents were major contributors to higher customer satisfaction.
 
 
 
